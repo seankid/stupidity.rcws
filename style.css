@@ -1,0 +1,21 @@
+body {
+background = rgb(1,2,1)
+}
+p {
+  color: rgb(201, 219, 217);
+}
+h1 {
+  font-weight: bold;
+}
+h1{
+  color: rgb(201, 219, 217)
+}
+h3{
+  color: rgb(255,255,255)
+}
+h2{
+  color: rgb(50, 168, 82)
+}
+li{
+  color: aqua
+} 
