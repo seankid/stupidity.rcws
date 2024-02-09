@@ -12,6 +12,7 @@
   margin: 4px 2px;
   cursor: pointer;
 }
+.button1 {background-color: #000000; color:white;}
 body {
   background-color: rgb(1, 2, 1)
 }
